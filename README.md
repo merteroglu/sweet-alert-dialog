@@ -21,6 +21,8 @@ Inspired by JavaScript [SweetAlert](http://tristanedwards.me/sweetalert)
 ## Setup
 The simplest way to use SweetAlertDialog is to add the library as aar dependency to your build.  Tag v1.4.0 has the updates.  See: https://jitpack.io/ for full instructions.
 
+    compile 'com.github.thomper:sweet-alert-dialog:v1.4.0'
+
 ## Usage
 
 show material progress
